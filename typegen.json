@@ -1,0 +1,11 @@
+{
+  "outDir": "src/types",
+  "specVersions": "https://polkadot.archive.subsquid.io/graphql",
+  "events": [
+    "Balances.Transfer"
+  ],
+  "calls": [
+  ],
+  "storage": [
+  ]
+}
